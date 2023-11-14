@@ -1,0 +1,12 @@
+
+#miParrafo {
+    padding: 10px;
+    font-size: 18px;
+    background-color: lightgray;
+}
+
+#miBoton {
+    margin-top: 10px;
+    padding: 8px;
+    cursor: pointer;
+}
